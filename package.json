@@ -1,0 +1,13 @@
+{
+  "name": "modern-portfolio",
+  "version": "0.0.1",
+  "license": "MIT",
+  "author": "Tom Kaczocha",
+  "private": true,
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "devDependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
