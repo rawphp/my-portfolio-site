@@ -165,6 +165,7 @@ main {
   grid-template-areas: "bioimage bio bio" "job1 job2 job3";
   grid-template-columns: repeat(3, 1fr); }
   .about-info .bio-image {
+    opacity: 0.9;
     grid-area: bioimage;
     margin: auto;
     border-radius: 50%;
