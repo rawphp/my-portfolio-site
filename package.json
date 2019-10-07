@@ -4,7 +4,7 @@
   "license": "MIT",
   "author": "Tom Kaczocha",
   "private": true,
-  "homepage": "https://rawphp.github.io/my-portfolio-site",
+  "homepage": "https://rawphp.github.io/my-portfolio",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
     "deploy": "gh-pages -d dist"
